@@ -1,22 +1,13 @@
 <!-- 🔥 FIRE LOG HEADER -->
-<div align="center" style="position: relative; width: 100%; overflow: hidden;">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" 
        alt="fire log animation" 
-       width="100%" 
-       style="filter: brightness(40%); border-radius: 10px;">
-  <div style="
-       position: absolute; 
-       top: 50%; 
-       left: 50%; 
-       transform: translate(-50%, -50%);
-       color: white; 
-       font-family: 'Segoe UI', sans-serif; 
-       text-align: center;">
-    <h1 style="font-size: 42px; margin-bottom: 10px;">Caleb Lo</h1>
-    <h3 style="margin-top: 0;">Building High-Impact Software & Machine-Learning Products</h3>
-    <h4 style="margin-top: 10px; font-weight: normal;">Business & Computer Science @ The University of British Columbia</h4>
-  </div>
-</div>
+       width="800" />
+</p>
+
+<h1 align="center">Hey, I'm Caleb Lo 👋</h1>
+<h3 align="center">Building High-Impact Software & Machine-Learning Products</h3>
+<h4 align="center">Business & Computer Science @ The University of British Columbia</h4>
 
 ---
 
