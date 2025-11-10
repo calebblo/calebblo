@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" 
        alt="fire log animation" 
-       width="800" />
+       width="500" />
 </p>
 
 <h1 align="center">Hey, I'm Caleb Lo 👋</h1>
@@ -23,7 +23,7 @@
 > I bridge business strategy and computer science to create software that drives measurable impact.
 
 - 🎯 **Focus:** Product Strategy, Applied Machine Learning, and Scalable Software Systems  
-- 🧠 **Learning:** Cloud infrastructure (AWS), system design, and LLM-powered products  
+- 🧠 **Learning:** Cloud infrastructure (AWS), system design, and LLM-powered applications  
 - 🧩 **Values:** Clarity, impact, and user-centered design  
 - 🏆 **Recognitions:** Diana Award • Toronto Star Feature • Commended by Prime Minister Trudeau  
 - 💼 **Experience:** First Intern @ Walmart Canada Blue Labs (Innovation Incubator)  
@@ -45,9 +45,8 @@
 
 **Languages:** Python · C++ · JavaScript · Java · TypeScript · SQL · HTML · CSS  
 **Frameworks & Libraries:** React · Flask · FastAPI · Django · PyTorch · TensorFlow · LangChain  
-**Cloud & DevOps:** AWS (S3, EC2, Lambda) · Azure (exposure) · Git · Docker  
-**Data & Visualization:** Pandas · NumPy · Matplotlib · Power BI · Figma  
-**Other Tools:** Microsoft Power Apps · Streamlit · REST APIs · CI/CD  
+**Cloud & Tools:** AWS (S3, EC2, Lambda) · Git · Figma  
+**Data & Visualization:** Pandas · NumPy · Matplotlib · Power BI  
 
 ---
 
