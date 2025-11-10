@@ -7,7 +7,6 @@
 
 <h1 align="center">Hey, I'm Caleb Lo 👋</h1>
 <h3 align="center">Building High-Impact Software & Machine-Learning Products</h3>
-<h4 align="center">Business & Computer Science @ The University of British Columbia</h4>
 
 ---
 
