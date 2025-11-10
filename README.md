@@ -1,11 +1,24 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:1e3a8a&height=120&section=header&text=Caleb%20Lo&fontColor=ffffff&fontSize=50&fontAlignY=70&desc=Business%20&%20Computer%20Science%20@%20UBC&descAlignY=90&descAlign=50" />
-</p>
+<!-- 🔥 FIRE LOG HEADER -->
+<div align="center" style="position: relative; width: 100%; overflow: hidden;">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" 
+       alt="fire log animation" 
+       width="100%" 
+       style="filter: brightness(40%); border-radius: 10px;">
+  <div style="
+       position: absolute; 
+       top: 50%; 
+       left: 50%; 
+       transform: translate(-50%, -50%);
+       color: white; 
+       font-family: 'Segoe UI', sans-serif; 
+       text-align: center;">
+    <h1 style="font-size: 42px; margin-bottom: 10px;">Caleb Lo</h1>
+    <h3 style="margin-top: 0;">Building High-Impact Software & Machine-Learning Products</h3>
+    <h4 style="margin-top: 10px; font-weight: normal;">Business & Computer Science @ The University of British Columbia</h4>
+  </div>
+</div>
 
-<p align="center">
-  Passionate about Product, Machine Learning, and Building High-Impact Systems
-</p>
+---
 
 <p align="center">
   <a href="https://linkedin.com/in/calebblo" target="_blank"><img src="https://img.shields.io/badge/💼_LinkedIn-Caleb_Lo-0a66c2?style=for-the-badge"></a>
@@ -16,14 +29,14 @@
 ---
 
 ### 🧭 About Me
-> I bridge business strategy and computer science to create products that drive measurable impact.
+> I bridge business strategy and computer science to create software that drives measurable impact.
 
-- 🎯 **Focus:** Product Management, Applied Machine Learning, and Scalable Systems  
-- 🧠 **Learning:** Cloud infrastructure (AWS), system design, and LLM-based applications  
+- 🎯 **Focus:** Product Strategy, Applied Machine Learning, and Scalable Software Systems  
+- 🧠 **Learning:** Cloud infrastructure (AWS), system design, and LLM-powered products  
 - 🧩 **Values:** Clarity, impact, and user-centered design  
-- 🏆 **Recognitions:** Diana Award, Toronto Star Feature, Commended by Prime Minister Trudeau  
-- 🧑‍💼 **Experience:** First Intern @ Walmart Canada Blue Labs (Innovation Incubator)  
-- 🌍 **Initiatives:** Co-Founded *Global Bound Education* – impacting 500+ students across Africa  
+- 🏆 **Recognitions:** Diana Award • Toronto Star Feature • Commended by Prime Minister Trudeau  
+- 💼 **Experience:** First Intern @ Walmart Canada Blue Labs (Innovation Incubator)  
+- 🌍 **Initiatives:** Co-Founded *Global Bound Education* — impacting 500+ students across Africa  
 
 ---
 
@@ -33,7 +46,7 @@
 |----------|--------------|-------------|
 | [**Live ASL Interpreter**](https://github.com/calebblo) | Real-time American Sign Language interpreter using computer vision & deep learning. | Python · FastAPI · React · AWS · OpenCV · TensorFlow |
 | [**UBC Course Assistant**](https://github.com/calebblo) | LLM-based chatbot that answers course queries using structured retrieval and UBC data. | Python · Flask · Django · React · LangChain · AWS |
-| [**ML Drug Toxicity Predictor**](https://github.com/calebblo) | Uber Global Hackathon North America Finalist. Predicts molecular toxicity for drug development. | Python · TensorFlow · RDKit · Streamlit · scikit-learn |
+| [**ML Drug Toxicity Predictor**](https://github.com/calebblo) | Uber Global Hackathon North America Finalist — predicts molecular toxicity for drug development. | Python · TensorFlow · RDKit · Streamlit · scikit-learn |
 
 ---
 
@@ -43,7 +56,7 @@
 **Frameworks & Libraries:** React · Flask · FastAPI · Django · PyTorch · TensorFlow · LangChain  
 **Cloud & DevOps:** AWS (S3, EC2, Lambda) · Azure (exposure) · Git · Docker  
 **Data & Visualization:** Pandas · NumPy · Matplotlib · Power BI · Figma  
-**Other Tools:** Microsoft Power Apps · Figma · Streamlit · REST APIs · CI/CD  
+**Other Tools:** Microsoft Power Apps · Streamlit · REST APIs · CI/CD  
 
 ---
 
@@ -52,7 +65,7 @@
 def caleb_lo():
     profile = {
         "education": "Business & Computer Science @ UBC",
-        "focus": ["Product Strategy", "Machine Learning", "Innovation Systems"],
+        "focus": ["Product Strategy", "Machine Learning", "Software Innovation"],
         "roles": [
             "Founder & CEO @ Global Bound Education",
             "Innovation Intern @ Walmart Canada Blue Labs"
