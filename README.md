@@ -1,47 +1,66 @@
-<!-- Profile header -->
-<h1 align="center">Hey, I'm YOUR NAME 👋</h1>
+<!-- HEADER -->
 <p align="center">
-  CS @ YOUR SCHOOL • SWE / Product • Builder of YOUR THEMES
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150">
+</p>
+
+<h1 align="center">👋 Hey, I'm <b>Caleb Lo</b></h1>
+
+<p align="center">
+  Business & Computer Science @ UBC · Passionate about Product, Machine Learning, and High-Impact Innovation
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK">LinkedIn</a> ·
-  <a href="mailto:YOUR@EMAIL.COM">Email</a> ·
-  <a href="https://YOUR-SITE.com">Website</a>
+  <a href="https://linkedin.com/in/calebblo" target="_blank"><img src="https://img.shields.io/badge/💼_LinkedIn-Caleb_Lo-0a66c2?style=for-the-badge"></a>
+  <a href="https://github.com/calebblo" target="_blank"><img src="https://img.shields.io/badge/🐙_GitHub-calebblo-333?style=for-the-badge"></a>
+  <a href="mailto:caleblo2805@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-caleblo2805@gmail.com-dc2626?style=for-the-badge"></a>
 </p>
 
 ---
 
-### What I'm focused on
-- 🚀 CURRENT FOCUS (e.g., “shipping full-stack apps with React, Node, Postgres, and AWS”)
-- 🧪 Interests: LIST (e.g., systems, ML infra, growth engineering)
-- 🛠 Tools I reach for: LANGS/FRAMEWORKS (short list)
+### 🧭 About Me
+> I’m fascinated by how technology and design shape behavior.  
+> I love building things that solve real problems — from accessibility tools to ML systems that impact lives.
 
-### Selected projects
-- **PROJECT A** — one-sentence impact.  
-  Tech: A, B, C · [Repo](https://github.com/USERNAME/REPO) · [Demo](https://YOUR-DEMO)
-- **PROJECT B** — one-sentence impact.  
-  Tech: A, B, C · [Repo](https://github.com/USERNAME/REPO)
-
-<details>
-  <summary><b>Skills (click to expand)</b></summary>
-
-**Languages:** Python, C++, Java, TypeScript  
-**Web:** React, Next.js, Node, Express, REST/GraphQL  
-**Data/Cloud:** Postgres, Redis, Docker, AWS (EC2, S3, Lambda), GitHub Actions  
-**Other:** Testing (Jest/pytest), CI/CD, basic security, performance profiling
-</details>
+- 🧠 **Learning:** ML systems, scalable backend architecture, and growth-driven product design  
+- 🧩 **Building:** Real-time ASL interpreter, intelligent course assistants, and AI health solutions  
+- 🌍 **Mission:** Use technology to break barriers — accessibility, education, and global impact  
+- 💬 **Ask me about:** Product thinking, applied AI, and startup execution  
+- ⚡ **Fun fact:** I co-founded *Global Bound Education*, was awarded the *Diana Award*, featured in the *Toronto Star*, commended by *Prime Minister Justin Trudeau*, and worked at *Walmart Canada’s Innovation Incubator* as its first intern.
 
 ---
 
-### How to reach me
-- 📫 YOUR EMAIL
-- 💼 LinkedIn: YOUR LINK
+### 🚀 Highlighted Projects
 
-<!-- Optional stats (3rd-party images can be slow or rate-limited) -->
-<!--
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact" height="150">
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [**ASL Classifier**](https://github.com/calebblo) | Real-time American Sign Language interpreter leveraging computer vision and deep learning. | Python, TensorFlow, OpenCV, Flask, AWS |
+| [**UBC Course Assistant Chatbot**](https://github.com/calebblo) | NLP-based chatbot that helps students plan and register courses intelligently. | Python, LangChain, OpenAI API, Streamlit |
+| [**Drug Toxicity Prediction (Uber Global Hackathon)**](https://github.com/calebblo) | Machine learning model predicting molecular toxicity — **North America Finalist** out of 5,000+ teams. | Python, scikit-learn, RDKit, XGBoost |
+
+---
+
+### ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,react,nodejs,flask,git,aws,postgres,mysql,tensorflow,openai&perline=6">
 </p>
--->
+
+---
+
+### 🧩 Professional Journey (as Code)
+```python
+def caleb_lo():
+    education = {
+        "degree": "BCom + BSc (Business & Computer Science)",
+        "institution": "University of British Columbia",
+        "interests": ["Product", "Machine Learning", "Innovation"]
+    }
+
+    experience = [
+        "🏢 First Intern @ Walmart Canada’s Innovation Incubator",
+        "🏅 Diana Award Recipient (UK)",
+        "📰 Featured in Toronto Star",
+        "🇨🇦 Commended by Prime Minister Justin Trudeau",
+        "🌍 Founder @ Global Bound Education"
+    ]
+
+    return "Driven by curiosity, impact, and building technology that empowers people."
